@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "yy030913",
+    "email": "1034709616@qq.com",
+    "url": "http://github.com/yy030913"
+  },
+  "bugs": {
+    "url": "https://github.com/yy030913/request/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "deprecated": false,
+  "description": "a simple request method use node nodejs(http or https)",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "homepage": "http://github.com/yy030913/request",
+  "keywords": [
+    "request"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "yy030913",
+      "email": "1034709616@qq.com",
+      "url": "http://github.com/yy030913/request"
+    }
+  ],
+  "name": "yy030913.request",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yy030913/request.git"
+  },
+  "version": "0.0.1"
+}
